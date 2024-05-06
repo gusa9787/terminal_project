@@ -14,11 +14,13 @@ Any comments are welcome and I hope you like my program!
 
 # Prequisites
 You will have to make sure that you download and have these files within the same folder: `terminal_project.py` and `Buff.jpg`.
+
 You must have **Python3** installed along with these Python libraries: **curses**, **pyfiglet**, **numpy**, **smtplib**, **time**, **datetime**, **threading**, and **requests**. There may be some additional libraries that I am not aware of but may be also required. Python will throw errors if it cannot find a libarary or if a library is not installed. **Install all libraries which Python may be complaining about until you get no errors. This process will most likely take place within the running process.**
 *Note: Google is your friend!*
 
 # Run
 You will open up your terminal and redirect to the path of the exact folder that I mentioned before. For example, for Windows, I use `cd "C:\CU Boulder - Fourth Year\Second Semester\History of Information and Computing\Project"` to get to the folder in which my files are located in.
+
 Next, you simply run the program by running the `python3 terminal_project.py` command within your terminal. **If you do not have the libraries installed, this is where those Python errors will appear!**
 
 # Notes
